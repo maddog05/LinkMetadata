@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LinkMetadata</string>
+
+    <string name="action_delete">Delete</string>
+    <string name="action_search">Search</string>
+
+    <string name="input_url">Url</string>
+
+    <string name="label_results">Results</string>
+
+    <string name="result_title">Title is %s</string>
+    <string name="result_description">Description is %s</string>
+    <string name="result_url">Url is %s</string>
+    <string name="result_image">Image is %s</string>
+</resources>
